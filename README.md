@@ -1,2 +1,2 @@
 # C/C++ template repository
-Tmeplate repository
+Template repository
