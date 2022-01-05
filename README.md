@@ -1,2 +1,2 @@
-# acbuffer
-Atomic template circular buffer
+# C/C++ template repository
+Tmeplate repository
